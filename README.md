@@ -1,0 +1,1 @@
+This project uses two infrared sensors and an Arduino to measure the speed of pellets as they pass through the device. The time between the sensors is used to calculate velocity, and pellet weight is used to calculate energy. Results are displayed on an LCD screen, and the pellet weight can be adjusted using buttons and saved to memory.
